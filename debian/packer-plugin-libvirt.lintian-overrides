@@ -1,0 +1,6 @@
+packer-plugin-libvirt: copyright-without-copyright-notice
+packer-plugin-libvirt: initial-upload-closes-no-bugs
+packer-plugin-libvirt: no-manual-page
+packer-plugin-libvirt: shared-library-lacks-prerequisites
+packer-plugin-libvirt: statically-linked-binary
+packer-plugin-libvirt: zero-byte-file-in-doc-directory
