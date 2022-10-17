@@ -1,0 +1,5 @@
+packer-plugin-libvirt (100:0.3.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/thomasklein94/packer-plugin-libvirt/releases/tag/v0.3.2
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Mon, 08 Aug 2022 10:41:00 +0800
